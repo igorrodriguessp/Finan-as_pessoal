@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GeminiFin - Finanças Pessoais com IA",
+  "description": "Um sistema financeiro pessoal abrangente com digitalização de recibos por IA, categorização de gastos e conselhos financeiros personalizados.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
